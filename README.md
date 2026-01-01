@@ -25,16 +25,16 @@ This project demonstrates hosting a static website using **Amazon S3** and deliv
 ## Screenshots
 
 ### S3 Static Website Hosting Enabled
-![S3](screenshots/s3-static-website-hosting)
+![S3](screenshots/s3-static-website-hosting.png)
 
 ### CloudFront Distribution Created
-![CloudFront](screenshots/cloudfront-distribution-created)
+![CloudFront](screenshots/cloudfront-distribution-created.png)
 
 ### CloudFront Distribution Enabled
-![CloudFront Enabled](screenshots/CloudFront-enabled)
+![CloudFront Enabled](screenshots/CloudFront-enabled.png)
 
 ### HTTPS Enabled via CloudFront
-![HTTPS](screenshots/HTTPS)
+![HTTPS](screenshots/HTTPS.png)
 
 ---
 
